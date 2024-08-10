@@ -1,2 +1,2 @@
-dumps/sql/*
-document/*
+dumps/sql/*.sql
+dumps/document/*.{bson|gz|log|md|pdf|txt}
