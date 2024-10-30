@@ -1,2 +1,3 @@
 dumps/sql/*.sql
+dumps/sql/*.zip
 dumps/document/*.{bson|gz|log|md|pdf|txt}
